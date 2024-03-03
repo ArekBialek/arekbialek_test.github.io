@@ -129,12 +129,12 @@ sections:
       #columns: '2'
   - block: child lab
     id: child lab
-    content:
+    #content:
       title: child lab
-      subtitle: ''
-      text: ''
+     # subtitle:
+     # text:
        Choose how many pages you would like to display (0 = all pages)
-      count: 5
+     # count: 5
        Filter on criteria
       filters:
         folders:
