@@ -15,12 +15,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor at the Institute of Psychology at Jagiellonian University 
+role: I am developmental and cultural psychologist focusing on understanding development of social cogniotion and communication (more to come).  
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: uj
-    url: https://www.uj.edu.pl/
+  - name: IPs UJ 
+    url: https://psychologia.uj.edu.pl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include xxx
@@ -90,9 +90,9 @@ social:
     # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
