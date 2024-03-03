@@ -133,9 +133,9 @@ sections:
   #    title: child lab
      # subtitle:
      # text:
-       Choose how many pages you would like to display (0 = all pages)
+    #   Choose how many pages you would like to display (0 = all pages)
      # count: 5
-       Filter on criteria
+    #   Filter on criteria
      # filters:
      #   folders:
      #     - child lab
