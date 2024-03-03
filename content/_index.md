@@ -127,7 +127,7 @@ sections:
         #  url: ''
     #design:
       #columns: '2'
-  - block: collection
+  - block: child lab
     id: child lab
     content:
       title: child lab
@@ -138,7 +138,7 @@ sections:
        Filter on criteria
       filters:
         folders:
-          - post
+          - child lab
         author: ""
         category: ""
         tag: ""
