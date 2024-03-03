@@ -39,15 +39,15 @@ education:
       institution: Jagiellonian University
       
 event: Behavioral Dynamics in Social Interactions
-event_url: https://envisionbox.org/krakow_flyer.html
+    - event: Behavioral Dynamics in Social Interactions
+      event_url: https://envisionbox.org/krakow_flyer.html
 
-location: Institute of Psychology, Jagiellonian University
-address:
-  street: Ingardena 6
-  city: Krakow
-  region: CA
-  postcode: '30060'
-  country: Poland    
+      location: Institute of Psychology, Jagiellonian University
+      address:
+        street: Ingardena 6
+        city: Krakow
+        postcode: '30060'
+        country: Poland    
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
