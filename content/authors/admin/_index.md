@@ -8,8 +8,8 @@ first_name: Arkadiusz
 last_name: Białek
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,7 +38,16 @@ education:
     - course: PhD in Psychology 
       institution: Jagiellonian University
       
-    
+event: Behavioral Dynamics in Social Interactions
+event_url: https://envisionbox.org/krakow_flyer.html
+
+location: Institute of Psychology, Jagiellonian University
+address:
+  street: Ingardena 6
+  city: Krakow
+  region: CA
+  postcode: '30060'
+  country: Poland    
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -88,7 +97,7 @@ social:
     icon_pack: fab
     link: https://github.com/ArekBialek
   - icon: research gate
-    icon_pack: far
+    icon_pack: fas
     link: https://www.researchgate.net/profile/Arkadiusz-Bialek
     # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -100,6 +109,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 I am developmental and cultural psychologist focusing on understanding development of social cogniotion and communication.
 {style="text-align: justify;"}

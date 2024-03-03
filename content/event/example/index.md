@@ -9,7 +9,7 @@ address:
   street: Ingardena 6
   city: Krakow
   region: CA
-  postcode: '94305'
+  postcode: '30060'
   country: Poland
 
 summary: Workshop on Behavioral Dynamics in Social Interaction
