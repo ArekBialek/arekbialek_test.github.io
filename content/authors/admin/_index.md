@@ -38,7 +38,7 @@ education:
     - course: PhD in Psychology 
       institution: Jagiellonian University
       
-event: Behavioral Dynamics in Social Interactions
+event: 
     - event: Behavioral Dynamics in Social Interactions
       event_url: https://envisionbox.org/krakow_flyer.html
 
