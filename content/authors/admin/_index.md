@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: I am developmental and cultural psychologist focusing on understanding development of social cogniotion and communication (more to come).  
+role: Assistant Professor at the Insitute of Psychology, Jagiellonian University.  
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -98,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-Arek Bialek is an Assistant Professor at the Insitute of Psychology, Jagiellonian University.
+I am developmental and cultural psychologist focusing on understanding development of social cogniotion and communication.
 {style="text-align: justify;"}

@@ -182,7 +182,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Talks/Events
       filters:
         folders:
           - event
