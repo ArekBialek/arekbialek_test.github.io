@@ -87,6 +87,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ArekBialek
+  - icon: research gate
+    icon_pack: far
+    link: https://www.researchgate.net/profile/Arkadiusz-Bialek
     # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
