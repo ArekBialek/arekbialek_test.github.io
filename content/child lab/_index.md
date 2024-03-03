@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: child lab
 cms_exclude: true
 
 # View.

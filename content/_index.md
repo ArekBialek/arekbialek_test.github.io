@@ -214,7 +214,7 @@ sections:
         country_code: PL
       directions: room 3.03 on Floor 3
       office_hours:
-        - 'Teusday 12:00 to 13:00'
+        - 'Tuesday 12:00 to 13:00'
              # Choose a map provider in `params.yaml` to show a map from these coordinates
       #coordinates:
       #  latitude: '37.4275'
